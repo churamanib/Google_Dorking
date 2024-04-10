@@ -1,3 +1,8 @@
+<h1/> what is Google Dorking👇 click below link about know Google Dorking <h1/>
+
+https://www.tutorialsfreak.com/ethical-hacking-tutorial/google-dorking-cheat-sheet
+
+
 # A Personal Collection of InfoSec Dorks
 
 ## Surface Discovery
