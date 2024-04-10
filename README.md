@@ -3,6 +3,13 @@
 https://www.tutorialsfreak.com/ethical-hacking-tutorial/google-dorking-cheat-sheet
 
 
+
+<h1/> Exploiting google dorks to strengthen your security <h1/>
+https://www.vaadata.com/blog/exploiting-google-dorks-strengthen-security/
+
+
+
+   
 # A Personal Collection of InfoSec Dorks
 
 ## Surface Discovery
