@@ -1,0 +1,26 @@
+Cross-Site Scripting (XSS) is a common vulnerability found in web applications that allows an attacker to inject malicious code into a web page viewed by other users. As a security researcher or ethical hacker, Google Dorks are an effective way to identify websites that may be vulnerable to XSS attacks. Here are some Google Dorks that can help you find XSS vulnerabilities:
+
+    inurl:index.php?id=
+    inurl:product.php?id=
+    inurl:category.php?id=
+    inurl:article.php?id=
+    inurl:gallery.php?id=
+    inurl:page.php?id=
+    inurl:show.php?id=
+    inurl:detail.php?id=
+    inurl:view.php?id=
+    inurl:newsitem.php?num=
+    inurl:readnews.php?id=
+    inurl:topic.php?ID=
+    inurl:forum.php?topic=
+    inurl:viewforum.php?id=
+    inurl:profile.php?id=
+    inurl:showthread.php?t=
+    inurl:member.php?action=profile&id=
+    inurl:productlist.php?id=
+    inurl:shop_category.php?id=
+    inurl:catalog.php?cat=
+
+These Google Dorks are used by ethical hackers to identify websites that may be vulnerable to XSS attacks. By searching for websites that have URLs containing these parameters, hackers can try to inject malicious scripts into those pages and see if they are executed by the website. If the website is vulnerable, the scripts will execute, potentially allowing the hacker to gain access to sensitive information or take control of the website.
+
+It’s important to note that these Google Dorks are just one tool in a hacker’s toolkit. Ethical hackers and security researchers use them to identify vulnerabilities, but they also use other techniques such as manual testing and automated tools to find and exploit vulnerabilities. If you are a website owner or developer, it’s important to keep your website up-to-date and secure to prevent XSS and other types of attacks.
